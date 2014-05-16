@@ -46,3 +46,5 @@ end
 
 # User control
 gem 'devise'
+
+gem 'bootstrap-sass'
